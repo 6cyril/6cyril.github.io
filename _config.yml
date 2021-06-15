@@ -30,9 +30,13 @@ twitter_username: 6cyril
 github_username:  6cyril
 
 # Build settings
-theme: minima
+theme: jekyll-theme-hacker
+
+#remote_theme: jekyll-theme-hacker
+
 plugins:
   - jekyll-feed
+#  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
