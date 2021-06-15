@@ -21,9 +21,7 @@
 title: CLSec Blog
 email: admin@clsec.hk
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is a place for an awesome description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.clsec.hk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 6cyril
@@ -31,12 +29,10 @@ github_username:  6cyril
 
 # Build settings
 theme: jekyll-theme-hacker
-
-#remote_theme: jekyll-theme-hacker
+#theme: minima
 
 plugins:
   - jekyll-feed
-#  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
